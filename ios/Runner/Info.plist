@@ -28,6 +28,12 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>The image_picker library requires access to photo library for profile photos.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>The image_picker library requires access to camera for profile photos.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>The image_picker library requires access to microphone.</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
